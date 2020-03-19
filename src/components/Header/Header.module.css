@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    justify-content: space-between;  
+    height: 60px;
+    line-height: 60px; 
+  }
+
+.header .headerLink {
+  width: 100%;
+  text-align: center;
+  border: 1px solid black;
+  color: black;
+}

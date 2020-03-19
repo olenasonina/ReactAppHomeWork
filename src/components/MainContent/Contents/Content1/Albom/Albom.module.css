@@ -1,0 +1,20 @@
+.page {
+    width: 100%;
+}
+
+h1 {
+    font-size: 25px;
+    text-align: center;
+}
+
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+p {
+    text-align: justify;
+    padding: 0 10px;
+}
